@@ -1,7 +1,7 @@
 <template>
-  <div class="">
+  <div class="min-h-screen">
     <div
-      class="bg-fixed h-screen w-full sm:w-full bg-cover bg-top"
+      class="bg-fixed h-screen w-full bg-fit md:bg-cover bg-top"
       style="background-image: url(/images/Meny-Mountain-Fog.jpg)"
     >
       <div
