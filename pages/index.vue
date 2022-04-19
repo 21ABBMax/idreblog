@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen">
+  <div class="min-h-screen">
     <div
       class="bg-fixed h-screen w-full sm:w-full bg-cover bg-top"
       style="background-image: url(/images/Meny-Mountain-Fog.jpg)"
