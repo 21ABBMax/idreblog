@@ -1,5 +1,5 @@
 <template>
-  <nav class="w-full fixed p-6 bg-red-200 shadow-2xl z-40">
+  <nav class="w-full fixed p-6 background-color shadow-2xl z-40">
     <div class="flex items-center justify-end md:justify-center">
       <!-- Mobile toggle -->
       <div class="md:hidden">
