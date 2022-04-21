@@ -133,9 +133,9 @@
                   src="/images/river-foggy-mountains-landscape.jpg"
                   alt=""
                 />
-              </div></div
-          ></a>
-          <a href="/summer-blogs">
+              </div>
+            </div>
+
             <div class="flex flex-wrap">
               <div
                 class="w-full md:w-1/2 h-96 mt-4 border-4 md:mt-0 md:border-0"
