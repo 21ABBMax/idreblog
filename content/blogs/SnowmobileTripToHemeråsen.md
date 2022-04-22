@@ -16,6 +16,6 @@ When we were done eating, we packed our things and headed home. It was now almos
 The trip was awsome! and we got some good pictures on the sunset and the view.
 
 <div class="flex flex-wrap justify-center md:justify-around mt-10 md:items-center">
-<img src="https://www.visitdalarna.se/sites/cb_dalarna/files/styles/cbis_large/http/images.citybreak.com/6898501.jpeg?itok=sjamn9gh" class="border-4" height="300px" width="250px">
+<img src="https://www.visitdalarna.se/sites/cb_dalarna/files/styles/cbis_large/http/images.citybreak.com/6898501.jpeg?itok=sjamn9gh" class="border-4" height="300px" width="250px" style="margin-left:20px">
 <img src="https://driftservice.blob.core.windows.net/cdn/OBJ14259_1834746961/lLi1e43fd0Gw2N9ZsLO7vQ.._4k" class="border-4" height="300px" width="250px">
 </div>
