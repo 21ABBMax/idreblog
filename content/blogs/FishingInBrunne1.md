@@ -15,7 +15,6 @@ When I finally arrived to my special place, I took out my two rods. If it is one
 
 It was a small (compared to the ones you can get in lakes, but for a Brunne Fish, it was quite impressive) char. From there on I got a bite on every throw. When the clock hit 9 pm it was time to head back home. In total I think I got almost 20 fishes. Most of them were chars but some were trouts (Trouts are my favourite), so you could say it was a pretty good afternoon.
 
-<div class="flex flex-wrap justify-center lg:justify-around md:justify-around mt-10">
-<img src="https://cdn.pixabay.com/photo/2019/03/08/15/27/fish-4042521_960_720.jpg" height= "200px" width="270px" class="border-4 border-blue-800">
-<img src="https://quickbutik.imgix.net/7516C/products/7516C-154349164864.jpeg" height= "200px" width="270px" class="mt-8 border-4 border-gray-400">
+<div class="flex justify-center">
+<img src="https://cdn.pixabay.com/photo/2019/03/08/15/27/fish-4042521_960_720.jpg" height= "300px" width="250px" class="border-4 mt-10">
 </div>
